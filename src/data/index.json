@@ -1,0 +1,79 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Languages",
+        "description": "C++,C,Python,HTML ,CSS , Javascript"
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Developer Tools",
+        "description": "VS Code ,Github,Canvas ,Vercel"
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "IT Constructs",
+        "description": "DSA ,Problem Solving ,O.S ,DBMs ,OOPS"
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Technologies/Frameworks",
+        "description": "Reactjs ,Nextjs and Nodejs"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/placeholder-image.png",
+        "title": "Real Estate Website",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github",
+        "href":"https://real-estate-7ekun4hri-rani704s-projects.vercel.app/"
+      },
+      {
+        "id": "2",
+        "src": "./img/placeholder-image-1.png",
+        "title": "Restaturant Website",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github"
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "Promptopia",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "4",
+        "src": "./img/avatar-image.png",
+        "description": "Ajay Kumar Garg Engineering College",
+        "author_name": "Btech CSE(AIML)",
+        "author_designation": "2021-2025"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Children's Academy School ,Ghaziabad",
+        "author_name": "Class 12 CBSE BOARD ",
+        "author_designation": "2020-2021"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Children's Academy School ,Ghaziabad",
+        "author_name": "Class 10 CBSE BOARD",
+        "author_designation": "2018-2019"
+      }
+    ]
+  }
+  
