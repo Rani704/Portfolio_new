@@ -10,7 +10,9 @@ export default function MyPortfolio() {
         </div>
         <div>
           <button className="btn btn-github" >
-            <svg
+          <a href="https://github.com/Rani704">
+            
+          <svg
               xmlns="http://www.w3.org/2000/svg"
               width="32"
               height="32"
@@ -25,6 +27,7 @@ export default function MyPortfolio() {
 
               />
             </svg>
+          </a>
             Visit My GitHub
           </button>
         </div>
@@ -42,6 +45,7 @@ export default function MyPortfolio() {
               </div>
               <p className="text-sm portfolio--link">
                 {item.link}
+                <a href="http://https://github.com/Rani704">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   
@@ -58,6 +62,8 @@ export default function MyPortfolio() {
                     stroke-linejoin="round"
                   />
                 </svg>
+                </a>
+               
               </p>
             </div>
           </div>
