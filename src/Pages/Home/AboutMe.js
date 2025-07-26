@@ -9,7 +9,7 @@ export default function AboutMe() {
             <p className="section--title">About</p>
             <h1 className="skills-section--heading">About Me</h1>
             <p className="hero--section-description">
-              I am a third year Engineering Student ,Currently doing Btech in Computer Science and Engineering with Specialization in artificial intelligence and machine learning.
+             I am a B.Tech 2025 graduate with 6 months of experience as an SDE-1 Intern at Amazon. Worked on backend development using Java, Docker, CI/CD, and AWS (IAM, CloudWatch, CloudFormation). Also contributed to frontend using React.js. Hands-on with Greengrass IoT, Memcached, Git, and unit testing.
             </p>
             <p className="hero--section-description">
              I am passionate about coding and with little guidance ,I can learn any new skill.
